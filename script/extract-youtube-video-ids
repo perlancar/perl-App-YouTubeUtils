@@ -33,11 +33,11 @@ $SPEC{extract_youtube_video_ids} = {
                 '$100,000 Name That Tune - Nick vs. Carol-SY-DnVZeFH0.mp4',
                 'GNdALsnBjh8',
             ],
-            result => [
+            result => [200, "OK", [
                 'rp4UwPZfRis',
                 'SY-DnVZeFH0',
                 'GNdALsnBjh8',
-            ],
+            ]],
         },
     ],
 };
