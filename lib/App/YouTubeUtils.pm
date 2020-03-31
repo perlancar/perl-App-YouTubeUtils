@@ -13,4 +13,9 @@ YouTube:
 
 #INSERT_EXECS_LIST
 
+
+=head1 SEE ALSO
+
+L<youtube-dl-if-not-yet> from L<App::YoutubeDlIfNotYet>
+
 =cut
