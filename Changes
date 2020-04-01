@@ -1,3 +1,9 @@
+0.004   2020-04-01  Released-By: PERLANCAR; Urgency: medium
+
+	- [refactor] Move extract-youtube-video-ids core logic to
+	  YouTube::Util.
+
+
 0.003   2020-04-01  Released-By: PERLANCAR; Urgency: low
 
 	- No functional changes.
