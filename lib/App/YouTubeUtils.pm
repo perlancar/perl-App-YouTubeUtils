@@ -1,6 +1,8 @@
 package App::YouTubeUtils;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
